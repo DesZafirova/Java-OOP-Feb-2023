@@ -1,4 +1,4 @@
-package InheritanceExercise.Zoo;
+package InheritanceExercise.zoo;
 
 public class Lizard extends Reptile{
     public Lizard(String name) {
